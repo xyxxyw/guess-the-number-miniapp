@@ -1,12 +1,7 @@
 {
-  "miniapp": {
-    "version": "1",
-    "name": "Guess the Number",
-    "description": "A simple number guessing game built as a Farcaster Mini App",
-    "iconUrl": "https://guess-the-number-miniapp.vercel.app/icon.png",
-    "splashImageUrl": "https://guess-the-number-miniapp.vercel.app/icon.png",
-    "splashBackgroundColor": "#4f46e5",
-    "homeUrl": "https://guess-the-number-miniapp.vercel.app/index.html",
-    "primaryCategory": "games"
+  "accountAssociation": {
+    "header": "eyJmaWQiOjIzNzI4MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDY5YzA4MkUwY0JiMDEyNTI1YzRmNzliNzQwNWJBMzQxQTkwNTYyQTAifQ",
+    "payload": "eyJkb21haW4iOiJndWVzcy10aGUtbnVtYmVyLW1pbmlhcHAudmVyY2VsLmFwcCJ9",
+    "signature": "MHhiYjZlOGRjNmI3Mjc1YWQ4MjE3MzNiZDQ3Mzg2ZDNhMDZkZDQxNGU4MWVkMTU0MWI3MzM1NmQwMmU1NzcxNWQ1NjIzYjRjNmZkNjRiYWM2YWNmMGE1MGUzOTY0YTc1YzEyNWMwYWY0NDllYjNiYjE4MjRlM2IxMTk2ZmVkMmFhMDFi"
   }
 }
