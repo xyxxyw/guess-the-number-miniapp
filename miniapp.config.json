@@ -1,0 +1,8 @@
+{
+  "id": "guess-the-number",
+  "name": "Guess the Number",
+  "description": "A simple guessing game built as a Farcaster Mini App",
+  "icon": "/icon.png",
+  "start_url": "/index.html",
+  "permissions": []
+}
